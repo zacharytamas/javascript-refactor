@@ -1,0 +1,23 @@
+{
+  "name": "javascript-refactor",
+  "version": "0.0.1",
+  "description": "Tool for comparing two JavaScript functions for equivalency, particularly for verifying a refactoring.",
+  "main": "randTest.coffee",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.cerner.com:ZJ029624/javascript-refactor.git"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "author": "Zachary Jones",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8c8d39aff75ad21da9d201a283167fe241e718ed"
+}
