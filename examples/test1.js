@@ -27,7 +27,7 @@ _.extend(exports, {
     args: [randInteger, randInteger],
     f: fun1,
     g: fun2,
-    iterations: 100,
+    iterations: 10000,
     verbose: false
 });
 
