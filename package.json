@@ -14,7 +14,7 @@
     "url": "git@github.cerner.com:ZJ029624/javascript-refactor.git"
   },
   "dependencies": {
-    "underscore": "~1.5.2"
+    "underscore": "~1.9.1"
   },
   "author": "Zachary Jones",
   "license": "BSD",
